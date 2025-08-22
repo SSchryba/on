@@ -1,0 +1,14 @@
+{
+  "name": "SpaceLaunchTracker",
+  "version": "1.0.0",
+  "description": "A Python service that tracks space traffic (satellites, launches, debris, anomalies) and atmospheric/space weather to define optimal launch windows for space tech companies.",
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": [
+    "See requirements.txt"
+  ],
+  "scripts": {
+    "start": "python main.py"
+  },
+  "repository": "https://github.com/yourusername/SpaceLaunchTracker"
+}
